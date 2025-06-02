@@ -1,0 +1,8 @@
+
+/reports/
+*.jtl
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
